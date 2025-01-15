@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Hi, I'm Christian
+layout: home
 permalink: /
 ---
 <div style="text-align: center;">
