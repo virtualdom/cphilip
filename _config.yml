@@ -6,19 +6,10 @@
 
 title: Christian Philip
 description: >-
-  I asked ChatGPT to write something here, and this is what it said.
-  Hi, I’m Christian, a dedicated soccer player with big dreams of playing
-  at the collegiate level. I’ve been passionate about the game for as long
-  as I can remember, and I work hard both on and off the field to grow as
-  an athlete and a teammate. Whether it’s perfecting my skills, breaking
-  down game strategies, or pushing myself in training, I’m always striving
-  to improve. Alongside soccer, I value academics and am committed to
-  balancing my studies with my athletic goals. Here, I’ll share highlights,
-  training sessions, and moments from my journey as I work toward earning a
-  spot on a college team.
+  Can you ask Christian what this should say?
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+logo: /images/logo.png
 # Build settings
 # theme: minima
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
