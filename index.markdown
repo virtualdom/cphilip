@@ -3,8 +3,10 @@ layout: page
 title: Hi, I'm Christian
 permalink: /
 ---
-<img src="/images/img-1.jpg" alt="drawing" width="200"/>
-<img src="/images/img-2.jpg" alt="drawing" width="200"/>
+<div style="text-align: center;">
+  <img src="./images/img-1.jpg" alt="drawing" style="height: 400px"/>
+  <img src="./images/img-2.jpg" alt="drawing" style="height: 400px"/>
+</div>
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
