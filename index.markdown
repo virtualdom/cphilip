@@ -3,6 +3,14 @@ layout: home
 permalink: /
 ---
 <div style="text-align: center;">
+  <video width="100%" autoplay muted>
+    <source src="./clips/clip-1.mp4" type="video/mp4">
+    Thanks for visiting!
+  </video>
+</div>
+
+
+<div style="text-align: center;">
   <img src="./images/img-1.jpg" alt="drawing" style="height: 400px"/>
   <img src="./images/img-2.jpg" alt="drawing" style="height: 400px"/>
 </div>
