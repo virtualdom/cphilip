@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# HELLO!
+## HELLO!
 
 What's going on?
