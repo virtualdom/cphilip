@@ -8,7 +8,7 @@ permalink: /
     Thanks for visiting!
   </video>
 </div>
-
+<br>
 I am a student athlete currently attending Sunnyvale high school while playing on the 2008 BvB ecnl-rl team. I prefer to play in the midfield (CDM or CM) but I have also performed quite well in the defensive line. I am looking to pursue my academic and athletic interests in order to obtain a degree and hope to find the right school for me. 
 
 <div style="text-align: center;">
