@@ -9,7 +9,7 @@ permalink: /
   </video>
 </div>
 
-**Note to George and Christian**: we can add text here pretty easily. Might be a good idea to put together 2-3 sentences to introduce yourself, what you're passionate about, and maybe ending on a note that you're excited to continue the conversation whichever recruiter sees this site.
+I am a student athlete currently attending Sunnyvale high school while playing on the 2008 BvB ecnl-rl team. I prefer to play in the midfield (CDM or CM) but I have also performed quite well in the defensive line. I am looking to pursue my academic and athletic interests in order to obtain a degree and hope to find the right school for me. 
 
 <div style="text-align: center;">
   <img src="./images/img-1.jpg" alt="drawing" style="height: 400px"/>
