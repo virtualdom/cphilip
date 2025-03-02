@@ -4,7 +4,7 @@ permalink: /
 ---
 <div style="text-align: center;">
   <video width="100%" controls autoplay muted>
-    <source src="./clips/clip-1.mp4" type="video/mp4">
+    <source src="./clips/clip-2.mp4" type="video/mp4">
     Thanks for visiting!
   </video>
 </div>
