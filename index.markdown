@@ -3,6 +3,10 @@ layout: home
 permalink: /
 ---
 <div style="text-align: center;">
+  <a href="https://www.instagram.com/p/DGyR2z3P3Zi/?igsh=dXF0NXB3NXJ3dmx5"><img src="./images/gameday-3-5.jpg" alt="drawing" style="height: 600px"/></a>
+</div>
+
+<div style="text-align: center;">
   <video width="100%" controls autoplay muted>
     <source src="./clips/clip-2.mp4" type="video/mp4">
     Thanks for visiting!
