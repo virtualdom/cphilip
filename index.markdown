@@ -3,7 +3,8 @@ layout: home
 permalink: /
 ---
 <div style="text-align: center;">
-  <a href="https://www.instagram.com/p/DGyR2z3P3Zi/?igsh=dXF0NXB3NXJ3dmx5"><img src="./images/gameday-3-5.jpg" alt="drawing" style="width: 100%;"/></a>
+  <img src="./images/final-score-player-of-the-match-2025-03-10.jpg" alt="drawing" style="width: 100%;"/>
+  <a href="https://www.instagram.com/p/DHAE6X_u6QR/"><i>View on Instagram</i></a>
 </div>
 
 <div style="text-align: center;">
