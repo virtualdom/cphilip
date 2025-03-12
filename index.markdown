@@ -7,6 +7,10 @@ permalink: /
   <a href="https://www.instagram.com/p/DHAE6X_u6QR/"><i>View on Instagram</i></a>
 </div>
 
+<br>
+<hr>
+<br>
+
 <div style="text-align: center;">
   <video width="100%" controls autoplay muted>
     <source src="./clips/clip-2.mp4" type="video/mp4">
