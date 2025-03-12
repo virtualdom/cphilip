@@ -4,7 +4,13 @@ permalink: /
 ---
 <div style="text-align: center;">
   <img src="./images/final-score-player-of-the-match-2025-03-10.jpg" alt="drawing" style="width: 100%;"/>
-  <a href="https://www.instagram.com/p/DHAE6X_u6QR/"><i>View on Instagram</i></a>
+  <p>
+    March 8, 2025: Sunnyvale VS. Caddo Mills
+    <br>
+    <strong>Player of the match - Christian Philip</strong>
+    <br>
+    <a href="https://www.instagram.com/p/DHAE6X_u6QR/"><i>View on Instagram</i></a>
+  </p>
 </div>
 
 <br>
