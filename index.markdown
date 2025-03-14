@@ -12,6 +12,7 @@ permalink: /
 
 #latest-left {
   flex: 50%;
+  margin: 0 auto;
 }
 
 #latest-right {
