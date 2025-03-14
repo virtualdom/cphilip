@@ -2,15 +2,46 @@
 layout: home
 permalink: /
 ---
-<div style="text-align: center;">
-  <img src="./images/final-score-player-of-the-match-2025-03-10.jpg" alt="drawing" style="width: 100%;max-width:600px;"/>
-  <p>
-    March 8, 2025: Sunnyvale VS. Caddo Mills
-    <br>
-    <strong>Player of the Match - Christian Philip</strong>
-    <br>
-    <a href="https://www.instagram.com/p/DHAE6X_u6QR/"><i>View on Instagram</i></a>
-  </p>
+
+<style>
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+#latest-left {
+  flex: 40%;
+}
+
+#latest-right {
+  flex: 60%;
+}
+
+/* Responsive layout - makes a one column-layout instead of two-column layout */
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+</style>
+
+<div class="flex-container" style="text-align: center;">
+  <div id="latest-left">
+    <img
+      src="./images/final-score-player-of-the-match-2025-03-10.jpg"
+      alt="drawing"
+      style="width: 100%;max-width:600px;"/>
+  </div>
+  <div id="latest-right">
+    <p>
+      March 8, 2025: Sunnyvale VS. Caddo Mills
+      <br>
+      <strong>Player of the Match - Christian Philip</strong>
+      <br>
+      <a href="https://www.instagram.com/p/DHAE6X_u6QR/"><i>View on Instagram</i></a>
+    </p>
+  </div>
 </div>
 
 <div style="text-align: center;">
