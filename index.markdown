@@ -8,6 +8,7 @@ permalink: /
   display: flex;
   flex-direction: row;
   text-align: center;
+  align-items: center;
 }
 
 #latest-left {
@@ -17,6 +18,7 @@ permalink: /
 
 #latest-right {
   flex: 50%;
+  font-size: 18px;
 }
 
 /* Responsive layout - makes a one column-layout instead of two-column layout */
