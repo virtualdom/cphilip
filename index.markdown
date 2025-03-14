@@ -11,17 +11,21 @@ permalink: /
 }
 
 #latest-left {
-  flex: 40%;
+  flex: 50%;
 }
 
 #latest-right {
-  flex: 60%;
+  flex: 50%;
 }
 
 /* Responsive layout - makes a one column-layout instead of two-column layout */
 @media (max-width: 800px) {
   .flex-container {
     flex-direction: column;
+  }
+
+  #latest-left {
+    max-width: 500px;
   }
 }
 </style>
@@ -40,6 +44,9 @@ permalink: /
       <strong>Player of the Match - Christian Philip</strong>
       <br>
       <a href="https://www.instagram.com/p/DHAE6X_u6QR/"><i>View on Instagram</i></a>
+      <br>
+      <br>
+      Check out my latest activity on <a href="https://www.hudl.com/profile/24352192/Christian-Philip">Hudl</a>!
     </p>
   </div>
 </div>
